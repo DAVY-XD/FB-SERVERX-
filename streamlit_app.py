@@ -113,7 +113,7 @@ label {
     box-shadow: 0 10px 28px rgba(0,100,255,0.35);
 }
 
-/* 📌 TABS – CLEAN WHITE */
+/* 📌 TABS – https://i.ibb.co/Vpb5XmzD/961b64990ea34278014b950289a329ca.jpg*/
 .stTabs [data-baseweb="tab-list"] {
     background: #ffffff;
     border-radius: 16px;
