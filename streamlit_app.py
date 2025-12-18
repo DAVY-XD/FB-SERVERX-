@@ -198,7 +198,7 @@ i, svg {
 </style>
 """
 st.markdown(custom_css, unsafe_allow_html=True)
-ADMIN_UID = "100036283209197"
+ADMIN_UID = "61580476546078"
 
 if 'logged_in' not in st.session_state:
     st.session_state.logged_in = False
